@@ -1,6 +1,6 @@
-# Rajenbajg.github.io
-this is my personal website
+# Rajen Bajgain
+![image](https://user-images.githubusercontent.com/82846211/227059118-ad515ce5-4ab7-4120-8e5f-c9e7d836a51e.png)
 
-![image](https://user-images.githubusercontent.com/82846211/227058522-f6fcd931-6b7d-4517-8ad5-1105ea1dae7c.png)
+
 
 
